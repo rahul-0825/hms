@@ -1,0 +1,8 @@
+{
+    "hms/api/*": {
+      "target": "http://localhost:4202",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
+  
